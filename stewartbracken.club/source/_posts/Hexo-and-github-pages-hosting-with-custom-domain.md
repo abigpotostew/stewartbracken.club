@@ -154,3 +154,6 @@ open http://localhost:4000/admin/
  git commit -am "blog updates"
  git push
  ```
+ 
+### Conclusion
+I hope this guide will help you setup your own website. Hexo is very good and flexible software.
