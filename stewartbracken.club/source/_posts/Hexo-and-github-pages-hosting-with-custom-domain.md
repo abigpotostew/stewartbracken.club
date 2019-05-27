@@ -22,7 +22,7 @@ Purchase your domain now or use the github.io URL provided by github. You can al
 ### Step 2 - Configure a New Github Repo
 Log in to [GitHub.com](github.com) and create a new repository with default settings. If using a custom domain, then the repo name doesn't matter. If you're using the github.io URL for your blog then choose a name that you want to be in your blog URL.
 
-Add your deploy key to the repo by opening the repo settings > Deploy Keys > Add deploy key. Paste in the contents of `~/.ssh/id_rsa.pub` in the text box and enable write access. If you don't have an SSH key follow the [first section here](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate a new one.
+Add your SSH key to your Github account by opening the Account settings > SSH and GPG keys > New SSH key. Paste in the contents of `~/.ssh/id_rsa.pub` in the text box. If you don't have an SSH key follow the [first section here](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate a new one.
 
 
 ### Step 3 - Create a Hexo Blog
