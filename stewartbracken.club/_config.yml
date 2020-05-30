@@ -84,3 +84,7 @@ deploy:
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
   name: abigpotostew
   email: stew.bracken@gmail.com
+
+
+admin:
+   deployCommand: './hexo-deploy.sh'
