@@ -88,3 +88,29 @@ deploy:
 
 admin:
    deployCommand: './hexo-deploy.sh'
+
+
+
+restful:
+  # site: ['title', 'subtitle', 'description', 'author', 'since', email', 'favicon', 'avatar']
+  site: false        # hexo.config mix theme.config
+  posts_size: 10   
+  posts_props:      
+    title: true
+    slug: true
+    date: true
+    updated: true
+    comments: true
+    path: true
+    excerpt: false
+    cover: false
+    content: false
+    keywords: false
+    categories: true
+    tags: true
+  categories: true         
+  use_category_slug: false # Use slug for filename of category data
+  tags: true               
+  use_tag_slug: false      # Use slug for filename of tag data
+  post: true               # 
+  pages: false             #  Hexo, About
