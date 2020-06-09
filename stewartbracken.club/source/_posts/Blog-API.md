@@ -1,3 +1,4 @@
+uuid: 123
 title: Blog API
 author: Stewart Bracken
 date: 2020-06-08 16:24:49
