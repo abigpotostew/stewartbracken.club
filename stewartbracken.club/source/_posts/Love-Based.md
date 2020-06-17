@@ -3,7 +3,7 @@ author: Stewart Bracken
 date: 2020-05-28 10:46:45
 tags:
 ---
-What if everythig was love based.
+What if everything was love based.
 * Love based music
 * Love based friendship
 * Love based cooking

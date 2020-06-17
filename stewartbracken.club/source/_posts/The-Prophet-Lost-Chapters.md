@@ -1,7 +1,11 @@
 title: The Prophet - Lost Chapters
 author: Stewart Bracken
-date: 2020-06-08 15:50:05
 tags:
+  - the-prophet
+  - public-domain
+  - markov-chain
+categories: []
+date: 2020-06-08 15:50:00
 ---
 The Prophet by Kahlil Gibran
 
