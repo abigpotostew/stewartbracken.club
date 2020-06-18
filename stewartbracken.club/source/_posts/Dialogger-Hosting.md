@@ -5,7 +5,7 @@ tags:
 ---
 I'm hosting a copy of this handy game design tree dialogue editor tool. I'm currently using it to design interactive dialogue for a game I'm working on. This tool is great for my non-coding friend to design game content with.
 
-[Access the Dialogger tool here](https://stewartbracken.club/static/Dialogger/index.html)
+[Access the Dialogger tool here](/static/Dialogger/index.html)
 
 
 

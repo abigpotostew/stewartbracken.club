@@ -5,7 +5,7 @@ then
    exit 1
 fi
 
-
+hexo generate
 git add .
 git commit -am "AutoDeploy: $0 - $1"
 git push
