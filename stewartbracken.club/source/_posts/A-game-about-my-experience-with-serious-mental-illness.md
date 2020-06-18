@@ -5,4 +5,4 @@ tags:
 ---
 I'm working on a game that tells a story about my experience with my brother's mental illness. Here's a preview:
 
-[Play game here](/static/shedding/)
+[Play game here](https://abigpotostew.github.io/shedding/p5/)
