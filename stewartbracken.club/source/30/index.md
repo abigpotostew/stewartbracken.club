@@ -1,7 +1,6 @@
 title: '30'
 date: 2020-10-07 10:30:05
 ---
-
 # Lo and Stew's birthday beach party!
 
 ## When:
@@ -12,7 +11,7 @@ Laguna Creek Beach, Santa Cruz
 
 https://goo.gl/maps/jhzHpxb9dRGPKHXE9
 
-Just before Panther Beach when driving north on 1. Park at the lot at Laguna Road and Highway 1. Walk down the trail across from the parking lot to the beach and look for me.
+Just before Panther Beach when driving north on 1. Park at the lot at Laguna Road and Highway 1. Cross the highway towards the trail directly across from the north end of the parking lot. Walk about .25 miles until you reach the beach. Look for a tent.
 
 ![](/images/30parking.jpg)
     
@@ -27,6 +26,3 @@ Just before Panther Beach when driving north on 1. Park at the lot at Laguna Roa
 
 ## On the global thing
 Please don't come if you're not feeling well or have been exposed. And if you prefer to social distance, bring your own blanket and supplies.
-
-
-
