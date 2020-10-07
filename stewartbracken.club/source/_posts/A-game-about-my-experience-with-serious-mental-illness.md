@@ -1,7 +1,8 @@
 title: A game about my experience with serious mental illness
 author: Stewart Bracken
 tags:
-  - mental-health
+  - mental-illness
+  - ''
   - game-design
   - art-cluster
 categories: []
@@ -9,7 +10,7 @@ date: 2020-06-17 22:12:00
 ---
 I'm working on a game that tells a story about my experience with my brother's mental illness. Here's a preview:
 
-[Play game here](https://abigpotostew.github.io/shedding/p5/)
+[Play game here](https://abigpotostew.github.io/shedding/app/)
 
 #### It's open source:
 https://github.com/abigpotostew/shedding
@@ -23,7 +24,10 @@ Shedding (final name TBD) is about acceptance of change. The player interacts wi
 I've been working on this during art cluster sessions with my friend.
 
 #### Updates
+###### 7/15/20
+I'm making this game generative.
 ###### 6/18/20
-It's now in javascript so that I can easily share it with the world!
+It's now in javascript so that I can share it with the world!
 
-I'm deciding between making this level design puzzle focused or narrative focused. maybe both?
+I'm deciding between making this level design puzzle focused or narrative focused. Maybe both?
+
