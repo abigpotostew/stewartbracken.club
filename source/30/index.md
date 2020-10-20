@@ -17,7 +17,7 @@ Just before Panther Beach when driving north on 1. Park at the lot at Laguna Roa
     
 
 ## Also
-* Wear a costume!
+* Wear a costume!!
 * But it's a nude beach so costumes optional.
 * It will probably be chilly so practice wim hof :) Or bring warm clothes.
 * I will have a gas stove and some food to share. It would be wonderful if you brought food to share.
