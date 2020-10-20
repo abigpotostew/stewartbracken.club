@@ -19,7 +19,8 @@ nav:
   articles: /archives/
   #test: /test-page/
   Dragon Breath: /static/dragon-breath/
-  #projects: projects_url
+  #projects: https://github.com/abigpotostew
+  search: /search/
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
@@ -101,7 +102,7 @@ favicon:
 
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
-# highlight: rainbow
+highlight: xcode
 
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
