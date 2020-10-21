@@ -19,8 +19,7 @@ nav:
   articles: /archives/
   #test: /test-page/
   Dragon Breath: /static/dragon-breath/
-  #projects: https://github.com/abigpotostew
-  search: /search/
+  #projects: projects_url
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
@@ -62,6 +61,12 @@ archive:
 post:
   show_updated: true
 
+# Customize the copyright years
+# Note: if start_year/end_year not provided, will use current year.
+copyright:
+  start_year: 2016
+  end_year:
+
 ##############################################################################
 # Look and Feel
 ##############################################################################
@@ -102,12 +107,12 @@ favicon:
 
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
-highlight: xcode
+# highlight: rainbow
 
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: dark
+colorscheme: light
 
 # Maximal width of the page in rem units.
 page_width: 48
@@ -147,7 +152,15 @@ baidu_analytics:
   enabled: false
   id: 2e6da3c375c8a87f5b664cea6d4cb29c
 
-# Fill in you Gravatar user id / email if you want to use your gravatar as the
+# Fill in your Umami Analytics tracking ID to enable Umami Analytics.
+umami_analytics:
+  enabled: false
+  id: e77e68be-f6e4-4br3-9365-2b76b57cd571
+  host: https://analytics.domain.com
+
+# Fill in you Gravatar email or hash if you want to use your gravatar as the
 # logo and/or favicons of you website.
+# To generate hash: `$ echo -n "name@email.com" | md5`.
 gravatar:
   email: name@email.com
+  hash: d41d8cd98f00b204e9800998ecf8427e
