@@ -251,4 +251,61 @@
     
   
   
+    
+    
+    <entry>
+      <title>30</title>
+      <link href="30/index.html"/>
+      <url>30/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Lo-and-Stew’s-birthday-beach-party"><a href="#Lo-and-Stew’s-birthday-beach-party" class="headerlink" title="Lo and Stew’s birthday beach party!"></a>Lo and Stew’s birthday beach party!</h1><h2 id="When"><a href="#When" class="headerlink" title="When:"></a>When:</h2><p>12pm to sunset, October 25 (Sunday)</p><h2 id="Where"><a href="#Where" class="headerlink" title="Where"></a>Where</h2><p>Laguna Creek Beach, Santa Cruz </p><p><a href="https://goo.gl/maps/jhzHpxb9dRGPKHXE9">https://goo.gl/maps/jhzHpxb9dRGPKHXE9</a></p><p>Just before Panther Beach when driving north on 1. Park at the lot at Laguna Road and Highway 1. Cross the highway towards the trail directly across from the north end of the parking lot. Walk about .25 miles until you reach the beach. Look for a tent.</p><p><img src="/images/30parking.jpg"></p><h2 id="Also"><a href="#Also" class="headerlink" title="Also"></a>Also</h2><ul><li>Wear a costume!!</li><li>But it’s a nude beach so costumes optional.</li><li>It will probably be chilly so practice wim hof :) Or bring warm clothes.</li><li>I will have a gas stove and some food to share. It would be wonderful if you brought food to share.</li><li>There’s no bathroom here but plenty of private nature nooks 😉. I will bring TP.</li></ul><h2 id="On-the-global-thing"><a href="#On-the-global-thing" class="headerlink" title="On the global thing"></a>On the global thing</h2><p>Please don’t come if you’re not feeling well or have been exposed. And if you prefer to social distance, bring your own blanket and supplies.</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="about/index.html"/>
+      <url>about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>I am Stewart Bracken and I do programming professionally. I specialize in backend matters such as rest API, persistence, and aws cloud architecture in golang. I also enjoy running, reading, cooking, and making art.</p><p><img src="/images/min-and-me-coding-1000.jpg"></p><p>thanks for stopping by.</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>dragon-breath</title>
+      <link href="dragon-breath/index.html"/>
+      <url>dragon-breath/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>search</title>
+      <link href="search/index.html"/>
+      <url>search/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test_page</title>
+      <link href="test-page/index.html"/>
+      <url>test-page/index.html</url>
+      
+        <content type="html"><![CDATA[<p>this is a new page</p><p>with some new content</p>]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
