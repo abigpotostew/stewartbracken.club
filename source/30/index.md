@@ -17,6 +17,8 @@ Just before Panther Beach when driving north on 1. Park at the lot at Laguna Roa
     
 
 ## Also
+* BYOB
+* Bring water
 * Wear a costume!!
 * But it's a nude beach so costumes optional.
 * It will probably be chilly so practice wim hof :) Or bring warm clothes.
