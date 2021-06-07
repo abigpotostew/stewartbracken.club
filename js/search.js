@@ -82,7 +82,7 @@ var searchFunc = function(path, searchId, contentId) {
           }
           var dataTitle = data.title.trim().toLowerCase();
           var dataContent = stripHtml(data.content.trim());
-          var dataUrl = data.url;
+          var dataUrl = "/"+data.url; //edit by stew
           var indexTitle = -1;
           var indexContent = -1;
           var firstOccur = -1;
@@ -139,15 +139,18 @@ var searchFunc = function(path, searchId, contentId) {
             resultList.push(searchResult);
           }
         });
-        resultList.sort(function(a, b) {
-            return b.rank - a.rank;
-        });
-        var result ="<ul class=\"search-result-list\">";
-        for (var i = 0; i < resultList.length; i++) {
-          result += resultList[i].str;
+		
+        if (resultList.length) {
+          resultList.sort(function(a, b) {
+              return b.rank - a.rank;
+          });
+          var result ="<ul class=\"search-result-list\">";
+          for (var i = 0; i < resultList.length; i++) {
+            result += resultList[i].str;
+          }
+          result += "</ul>";
+          $resultContent.innerHTML = result;
         }
-        result += "</ul>";
-        $resultContent.innerHTML = result;
       });
     }
   });
