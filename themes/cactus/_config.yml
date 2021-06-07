@@ -16,6 +16,7 @@ direction: ltr
 nav:
   home: /
   about: /about/
+  Art: /art/
   articles: /archives/
   #test: /test-page/
   Dragon Breath: /static/dragon-breath/
